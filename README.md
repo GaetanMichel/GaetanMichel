@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaetanMichel
-- 👀 I’m a French Embedded software / Embedded system developer
+- 👀 I’m a French Embedded software developer
 - 🌱 I’m currently learning rust for embedded purpose
 
 
